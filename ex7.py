@@ -57,3 +57,5 @@ for i in range(12):
     func4.setSalariAno(float(func4.getSalAno()) + func4.getSalMes(i))
 
 print(f"O salario anual é {func4.getSalAno()}")
+
+#estruturacomvetorarraylapratica reposit 2
