@@ -48,9 +48,7 @@ print("\nTotal do sexo masculino e maior que 18 � de:",totalsexom18);
 print("\nMedia de idade do sexo feminio � de: ", mediaf);
 print("\nMedia de idade do sexo masculino � de:", media);
 
-    
-            
-            
+# aulapraticacomandofor05.c repositoriaoo v1
         
             
     
