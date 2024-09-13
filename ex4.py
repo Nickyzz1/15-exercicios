@@ -39,3 +39,4 @@ pagar = lanche+bebida
 
 print("\nTOTAL A PAGAR:\n",pagar)
 
+#exercicio9aulapratica

@@ -38,3 +38,5 @@ else:
             else:
                 conceito = 'E'
                 print(f"REPROVADO conceito:{conceito} \n COM O ID: {id} \n COM AS NOTAS: {n1}, {n2} ,{n3} \n COM A MEDIA: {media} \n")
+                
+# iflista6 reposit 1
